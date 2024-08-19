@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\WiseScope\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1225032D-75B3-4959-AE3C-D1C63FDE9589}|WiseScope.DataAccess\\WiseScope.DataAccess.csproj|c:\\users\\asus\\source\\repos\\wisescope\\wisescope.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1225032D-75B3-4959-AE3C-D1C63FDE9589}|WiseScope.DataAccess\\WiseScope.DataAccess.csproj|solutionrelative:wisescope.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1225032D-75B3-4959-AE3C-D1C63FDE9589}|WiseScope.DataAccess\\WiseScope.DataAccess.csproj|c:\\users\\asus\\source\\repos\\wisescope\\wisescope.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1225032D-75B3-4959-AE3C-D1C63FDE9589}|WiseScope.DataAccess\\WiseScope.DataAccess.csproj|solutionrelative:wisescope.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1225032D-75B3-4959-AE3C-D1C63FDE9589}|WiseScope.DataAccess\\WiseScope.DataAccess.csproj|c:\\users\\asus\\source\\repos\\wisescope\\wisescope.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1225032D-75B3-4959-AE3C-D1C63FDE9589}|WiseScope.DataAccess\\WiseScope.DataAccess.csproj|solutionrelative:wisescope.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1225032D-75B3-4959-AE3C-D1C63FDE9589}|WiseScope.DataAccess\\WiseScope.DataAccess.csproj|c:\\users\\asus\\source\\repos\\wisescope\\wisescope.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1225032D-75B3-4959-AE3C-D1C63FDE9589}|WiseScope.DataAccess\\WiseScope.DataAccess.csproj|solutionrelative:wisescope.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1225032D-75B3-4959-AE3C-D1C63FDE9589}|WiseScope.DataAccess\\WiseScope.DataAccess.csproj|c:\\users\\asus\\source\\repos\\wisescope\\wisescope.dataaccess\\wisescope.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1225032D-75B3-4959-AE3C-D1C63FDE9589}|WiseScope.DataAccess\\WiseScope.DataAccess.csproj|solutionrelative:wisescope.dataaccess\\wisescope.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\WiseScope\\WiseScope.DataAccess\\Migrations\\20240819030900_AddCategoryToDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WiseScope.DataAccess\\Migrations\\20240819030900_AddCategoryToDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB974863-4788-433D-B804-F4B6A3F81434}|WiseScope\\WiseScope.csproj|c:\\users\\asus\\source\\repos\\wisescope\\wisescope\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB974863-4788-433D-B804-F4B6A3F81434}|WiseScope\\WiseScope.csproj|solutionrelative:wisescope\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB813B34-2BF3-4D62-B644-CA64622646DF}|WiseScope.Models\\WiseScope.Models.csproj|c:\\users\\asus\\source\\repos\\wisescope\\wisescope.models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB813B34-2BF3-4D62-B644-CA64622646DF}|WiseScope.Models\\WiseScope.Models.csproj|solutionrelative:wisescope.models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB974863-4788-433D-B804-F4B6A3F81434}|WiseScope\\WiseScope.csproj|c:\\users\\asus\\source\\repos\\wisescope\\wisescope\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB974863-4788-433D-B804-F4B6A3F81434}|WiseScope\\WiseScope.csproj|solutionrelative:wisescope\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB974863-4788-433D-B804-F4B6A3F81434}|WiseScope\\WiseScope.csproj|c:\\users\\asus\\source\\repos\\wisescope\\wisescope\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB974863-4788-433D-B804-F4B6A3F81434}|WiseScope\\WiseScope.csproj|solutionrelative:wisescope\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB974863-4788-433D-B804-F4B6A3F81434}|WiseScope\\WiseScope.csproj|c:\\users\\asus\\source\\repos\\wisescope\\wisescope\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB974863-4788-433D-B804-F4B6A3F81434}|WiseScope\\WiseScope.csproj|solutionrelative:wisescope\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB974863-4788-433D-B804-F4B6A3F81434}|WiseScope\\WiseScope.csproj|c:\\users\\asus\\source\\repos\\wisescope\\wisescope\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB974863-4788-433D-B804-F4B6A3F81434}|WiseScope\\WiseScope.csproj|solutionrelative:wisescope\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WiseScope\\WiseScope.DataAccess\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "WiseScope.DataAccess\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WiseScope\\WiseScope.DataAccess\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "WiseScope.DataAccess\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T04:21:57.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WiseScope\\WiseScope.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "WiseScope.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WiseScope\\WiseScope.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "RelativeToolTip": "WiseScope.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T04:18:55.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WiseScope\\WiseScope.DataAccess\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "WiseScope.DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WiseScope\\WiseScope.DataAccess\\Repository\\Repository.cs",
+              "RelativeToolTip": "WiseScope.DataAccess\\Repository\\Repository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T03:32:21.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WiseScope\\WiseScope.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "WiseScope.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WiseScope\\WiseScope.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "WiseScope.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T03:32:12.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WiseScope.DataAccess",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WiseScope\\WiseScope.DataAccess\\WiseScope.DataAccess.csproj",
+              "RelativeDocumentMoniker": "WiseScope.DataAccess\\WiseScope.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WiseScope\\WiseScope.DataAccess\\WiseScope.DataAccess.csproj",
+              "RelativeToolTip": "WiseScope.DataAccess\\WiseScope.DataAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-19T03:31:07.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240819030900_AddCategoryToDb.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WiseScope\\WiseScope.DataAccess\\Migrations\\20240819030900_AddCategoryToDb.cs",
+              "RelativeDocumentMoniker": "WiseScope.DataAccess\\Migrations\\20240819030900_AddCategoryToDb.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WiseScope\\WiseScope.DataAccess\\Migrations\\20240819030900_AddCategoryToDb.cs",
+              "RelativeToolTip": "WiseScope.DataAccess\\Migrations\\20240819030900_AddCategoryToDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T03:09:00.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WiseScope\\WiseScope\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WiseScope\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WiseScope\\WiseScope\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WiseScope\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T03:02:18.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WiseScope\\WiseScope.Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WiseScope.Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WiseScope\\WiseScope.Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WiseScope.Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T03:02:09.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WiseScope\\WiseScope\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WiseScope\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WiseScope\\WiseScope\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WiseScope\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T03:01:43.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WiseScope\\WiseScope\\Program.cs",
+              "RelativeDocumentMoniker": "WiseScope\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WiseScope\\WiseScope\\Program.cs",
+              "RelativeToolTip": "WiseScope\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:58:36.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WiseScope\\WiseScope\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WiseScope\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WiseScope\\WiseScope\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WiseScope\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:31:44.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WiseScope\\WiseScope\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "WiseScope\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WiseScope\\WiseScope\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "WiseScope\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:29:12.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

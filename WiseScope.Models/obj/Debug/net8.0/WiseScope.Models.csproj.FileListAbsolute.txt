@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\WiseScope\WiseScope.Models\bin\Debug\net8.0\WiseScope.Models.deps.json
+C:\Users\ASUS\source\repos\WiseScope\WiseScope.Models\bin\Debug\net8.0\WiseScope.Models.dll
+C:\Users\ASUS\source\repos\WiseScope\WiseScope.Models\bin\Debug\net8.0\WiseScope.Models.pdb
+C:\Users\ASUS\source\repos\WiseScope\WiseScope.Models\obj\Debug\net8.0\WiseScope.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\WiseScope\WiseScope.Models\obj\Debug\net8.0\WiseScope.Models.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\WiseScope\WiseScope.Models\obj\Debug\net8.0\WiseScope.Models.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\WiseScope\WiseScope.Models\obj\Debug\net8.0\WiseScope.Models.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\WiseScope\WiseScope.Models\obj\Debug\net8.0\WiseScope.Models.dll
+C:\Users\ASUS\source\repos\WiseScope\WiseScope.Models\obj\Debug\net8.0\refint\WiseScope.Models.dll
+C:\Users\ASUS\source\repos\WiseScope\WiseScope.Models\obj\Debug\net8.0\WiseScope.Models.pdb
+C:\Users\ASUS\source\repos\WiseScope\WiseScope.Models\obj\Debug\net8.0\ref\WiseScope.Models.dll
